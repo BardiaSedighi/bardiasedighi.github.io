@@ -3,6 +3,8 @@ This website will showcase my projects throughout university
 
 You can use the [editor on GitHub](https://github.com/BardiaSedighi/bardiasedighi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+![Me](https://github.com/BardiaSedighi/bardiasedighi.github.io/blob/master/Gkuang-191129-%200549.jpg)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
