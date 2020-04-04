@@ -4,7 +4,6 @@ This website will showcase my projects throughout university
 
 You can use the [editor on GitHub](https://github.com/BardiaSedighi/bardiasedighi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-![Me](https://github.com/BardiaSedighi/bardiasedighi.github.io/blob/master/Gkuang-191129-%200549.jpg)
 
 ![random](http://www.usnews.com/cmsmedia/46/19/5c6c54fb4c6f812dc85c20fc656a/141106-portfolio-stock.jpg)
 
