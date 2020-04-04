@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/BardiaSedighi/bardiasedigh
 
 ![Me](https://github.com/BardiaSedighi/bardiasedighi.github.io/blob/master/Gkuang-191129-%200549.jpg)
 
-![random](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.needpix.com%2Fphoto%2F1187629%2Fportfolio-cv-business-job-work-career-icon-employment-management&psig=AOvVaw3d4_ItwyxRo0fKCmk6zLdY&ust=1586100026233000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOje1K6Jz-gCFQAAAAAdAAAAABAD)
+![random](https://storage.needpix.com/rsynced_images/portfolio-2903909_1280.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
