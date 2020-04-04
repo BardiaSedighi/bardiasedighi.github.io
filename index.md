@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/BardiaSedighi/bardiasedigh
 
 ![Me](https://github.com/BardiaSedighi/bardiasedighi.github.io/blob/master/Gkuang-191129-%200549.jpg)
 
-![random](https://storage.needpix.com/rsynced_images/portfolio-2903909_1280.png)
+![random](http://www.usnews.com/cmsmedia/46/19/5c6c54fb4c6f812dc85c20fc656a/141106-portfolio-stock.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
